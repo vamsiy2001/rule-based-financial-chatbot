@@ -2,6 +2,12 @@
 
 This is a simple **rule-based chatbot** that answers financial queries (like revenue, net income, debt-to-assets) for Microsoft, Tesla, and Apple using data from SEC 10-K/10-Q filings.
 
+While not an advanced LLM-based system, this project provided a **practical hands-on experience** in:  
+- Parsing and working with real-world financial data  
+- Structuring a lightweight rule-based chatbot  
+- Organizing code and datasets for reproducibility  
+
+
 ## Features
 - Ask about Total Revenue, Net Income Margin, Debt-to-Assets, Cash Flow, and Growth %.
 - Works for multiple years (2021–2023).
