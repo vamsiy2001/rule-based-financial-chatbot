@@ -1,0 +1,14 @@
+👋 Hi! I’m your Financial Chatbot.
+Ask me about revenue, net income margin, cash flow, or debt-to-assets for Microsoft, Tesla, or Apple (2022–2024).
+Type 'exit' or 'quit' anytime to stop.
+
+You: What is the total revenue of Microsoft 2023?
+Bot: The total revenue for Microsoft  in 2023 was 211,915 million USD.
+You: Tell me cash flow for Tesla 2024
+Bot: In 2024, Tesla's cash flow from operating activities was 14,923 million USD.
+You: what is the difference between income from 2023 to 2022
+Bot: Sorry, I can only answer predefined financial queries like revenue, net income, debt-to-assets, etc.
+You: What is the debt to assets ratio for Apple 2024?
+Bot: In 2024, Apple's debt-to-assets ratio was 84.40%.
+You: exit
+Bot: Goodbye 👋 Have a great day!
