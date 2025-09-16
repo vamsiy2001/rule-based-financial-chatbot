@@ -1,18 +1,39 @@
+<p align="center">
+  <img src="https://forage-uploads-prod.s3.amazonaws.com/assets/forage_logo/Forage_Logo_Full_Color.png" height="60px" alt="Forage" style="margin-right:20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BCG_monogram_green.svg/512px-BCG_monogram_green.svg.png" height="80px" alt="BCG X">
+</p>
+
 # Financial Chatbot 🤖
 
-This is a simple **rule-based chatbot** that answers financial queries (like revenue, net income, debt-to-assets) for Microsoft, Tesla, and Apple using data from SEC 10-K/10-Q filings.
+# Rule-Based Financial Chatbot 🤖
 
-While not an advanced LLM-based system, this project provided a **practical hands-on experience** in:  
-- Parsing and working with real-world financial data  
-- Structuring a lightweight rule-based chatbot  
-- Organizing code and datasets for reproducibility  
+This repository contains a **rule-based financial chatbot** developed as part of the  
+**Forage BCGX GenAI Virtual Experience Program**.  
 
+The chatbot answers financial queries (like **revenue, net income, debt-to-assets ratio**) for  
+**Microsoft, Tesla, and Apple** using structured data extracted from SEC **10-K/10-Q filings**.
 
-## Features
-- Ask about Total Revenue, Net Income Margin, Debt-to-Assets, Cash Flow, and Growth %.
-- Works for multiple years (2021–2023).
-- Runs in the terminal with a friendly chatbot interface.
+---
 
+## 📌 Learning Outcomes
+
+This project provided practical hands-on experience in:  
+- 📊 Extracting and structuring financial data from **real-world SEC filings**  
+- 🤖 Developing a **lightweight rule-based chatbot**  
+- 🗂️ Organizing code, datasets, and documentation for reproducibility  
+
+While this is **not an advanced AI/LLM chatbot**, it demonstrates how financial data can be  
+transformed into **interactive query systems**, serving as a starting point for more advanced projects.  
+
+---
+
+## 🚀 Features
+- Ask about **Total Revenue, Net Income Margin, Debt-to-Assets, Cash Flow, and Growth %**  
+- Supports queries across **multiple years (2021–2023)**  
+- Runs in the **terminal with a chatbot-style interface**  
+- Beginner-friendly, reproducible, and extendable  
+
+---
 ## Project Structure
 ```
 financial-chatbot/
@@ -25,7 +46,7 @@ financial-chatbot/
 │── .gitignore
 ```
 
-## Installation & Usage
+## ⚙️ Installation & Usage
 ```bash
 # Clone repo
 git clone https://github.com/<your-username>/financial-chatbot.git
