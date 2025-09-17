@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://forage-uploads-prod.s3.amazonaws.com/assets/forage_logo/Forage_Logo_Full_Color.png" height="60px" alt="Forage" style="margin-right:20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BCG_monogram_green.svg/512px-BCG_monogram_green.svg.png" height="80px" alt="BCG X">
-</p>
-
 # Financial Chatbot 🤖
 
 # Rule-Based Financial Chatbot 🤖
